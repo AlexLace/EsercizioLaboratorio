@@ -1,0 +1,32 @@
+[
+    {
+        "img": "https://9to5mac.com/wp-content/uploads/sites/6/2022/09/iPhone-14-wallpapers.jpg?quality=82&strip=all",
+        "nome": "Iphone 14 pro",
+        "brand": "Apple",
+        "prezzo": "1339€"
+    },
+    {
+        "img": "https://mundoconectado.com.br/uploads/chamadas/papel-de-parede-4k-galaxy-s23-ultra.jpg",
+        "nome": "Samsung S23 Ultra",
+        "brand": "Samsung",
+        "prezzo": "1479€"
+    },
+    {
+        "img": "https://cdn.ytechb.com/wp-content/uploads/2022/12/xiaomi-13-wallpapers.webp",
+        "nome": "Xiaomi mi 13 pro",
+        "brand": "Xiaomi",
+        "prezzo": "1339€"
+    },
+    {
+        "img": "https://img.tuttoandroid.net/wp-content/uploads/2023/03/HUAWEI-P60-Pro-Hero.jpg",
+        "nome": "Huawei P60 pro ",
+        "brand": "Huawei",
+        "prezzo": "1199,90€"
+    },
+    {
+        "img": "https://i0.wp.com/www.smartprix.com/bytes/wp-content/uploads/2022/07/FW6bUl-XoAAjdK5-photoutils.com_.jpeg?ssl=1",
+        "nome": "Rog Phone 7 ultimate",
+        "brand": "Asus",
+        "prezzo": "1429€"
+    }
+]
