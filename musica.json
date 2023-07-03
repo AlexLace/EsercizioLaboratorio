@@ -1,0 +1,27 @@
+[
+    {   "img": "https://images.squarespace-cdn.com/content/v1/58a22f3a46c3c407af0cabe7/1591381351073-DNYJCPAYJ6PIIWZ67313/Shawn+James+-Through+the+Valley+Moth.jpg",
+        "autore": "Shawn James",
+        "album": "Shadows",
+        "genere": "Country-Pop",
+        "titolo": "Through the valley"
+    },
+    {   "img": "https://i.ytimg.com/vi/-32-6FqGW2E/maxresdefault.jpg",
+        "autore": "Hozier, Bear McCreary",
+        "album": "God of War(Ragnarok)",
+        "genere": "Pop",
+        "titolo": "Blood upon the snow"
+    },
+    {   "img": "https://m.media-amazon.com/images/I/81dvE4P1wAL._UF1000,1000_QL80_.jpg",
+        "autore": "Survivor",
+        "album": "Eye of the Tiger",
+        "genere": "Hard Rock",
+        "titolo": "Eyes of the Tiger"
+    },
+    {
+        "img": "https://upload.wikimedia.org/wikipedia/en/d/d8/Live_is_life_%282%29.jpg",
+        "autore": "Opus",
+        "album": "Live Is Life",
+        "genere": "Pop-Rock",
+        "titolo": "Live Is Life"
+    }
+]
