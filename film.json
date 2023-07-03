@@ -1,0 +1,27 @@
+[
+    {
+        "img":"https://images2.alphacoders.com/541/541413.jpg",
+      "autore": "Ron Howard",
+      "genere": "Film azione",
+      "titolo": "Rush"
+    },
+    {
+        "img":"https://images7.alphacoders.com/674/thumb-1920-674296.jpg",
+      "autore": "Ridley Scott",
+      "genere": "Film drammatico",
+      "titolo": "Il gladiatore"
+    }, 
+    {
+        "img":"https://www.themoviedb.org/t/p/original/3nYlM34QhzdtAvWRV5bN4nLtnTc.jpg",
+      "autore": "Steven Spielberg",
+      "genere": "Film thriller",
+      "titolo": "Lo squalo"
+    },
+    {
+        "img":"https://images5.alphacoders.com/112/thumb-1920-1121084.jpg",
+      "autore": "Luca Guadagnino",
+      "genere": "Film romantico",
+      "titolo": "Chiamami col tuo nome"
+    }
+ 
+  ]
