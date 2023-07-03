@@ -1,0 +1,26 @@
+[
+    {
+        "nome": "Halo Infinite",
+        "editor": "343 Industries",
+        "prezzo": "19,90€",
+        "img": "https://images6.alphacoders.com/102/1023546.jpg"
+    },
+    {
+        "nome": "Call of Duty Black Ops Cold War",
+        "editor": "Activision",
+        "prezzo": "22,99€",
+        "img": "https://images.alphacoders.com/109/thumb-1920-1097309.png"
+    },
+    {
+        "nome": "Tom Clancy's Rainbow Six Siege",
+        "editor": "Ubisoft",
+        "prezzo": "9,99€",
+        "img": "https://wallpapers.com/images/hd/tom-clancys-rainbow-six-siege-at2hdqea9um0ovuw.jpg"
+    },
+    {
+        "nome": "Minecraft",
+        "editor": "Mojang",
+        "prezzo": "29,99€",
+        "img": "https://cdn2.tfx.company/images/thumb-1920-1128578.jpg"
+    }
+]
